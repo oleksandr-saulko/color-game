@@ -1,6 +1,6 @@
 "use strict"
 
-const colors = [];
+let colors = [];
 let numSquares = 6;
 let pickedColor;
 let squares = document.querySelectorAll('.square');
